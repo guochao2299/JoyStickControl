@@ -1,0 +1,10 @@
+G:\MyBlog\JoyStickControl\JoyStickControl\bin\Debug\JoyStickControl.exe
+G:\MyBlog\JoyStickControl\JoyStickControl\bin\Debug\JoyStickControl.pdb
+G:\MyBlog\JoyStickControl\JoyStickControl\obj\Debug\JoyStickControl.frmMain.resources
+G:\MyBlog\JoyStickControl\JoyStickControl\obj\Debug\JoyStickControl.frmSettings.resources
+G:\MyBlog\JoyStickControl\JoyStickControl\obj\Debug\JoyStickControl.Properties.Resources.resources
+G:\MyBlog\JoyStickControl\JoyStickControl\obj\Debug\JoyStickControl.csproj.GenerateResource.Cache
+G:\MyBlog\JoyStickControl\JoyStickControl\obj\Debug\JoyStickControl.exe
+G:\MyBlog\JoyStickControl\JoyStickControl\obj\Debug\JoyStickControl.pdb
+G:\MyBlog\JoyStickControl\JoyStickControl\obj\Debug\JoyStickControl.g.resources
+G:\MyBlog\JoyStickControl\JoyStickControl\obj\Debug\JoyStickControl.csprojResolveAssemblyReference.cache
